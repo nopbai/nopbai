@@ -1,0 +1,91 @@
+h1{
+	font-size: 45px;
+	padding-top: 20px;
+	margin-bottom:15px;
+	margin-top: 40px; 
+}
+img{
+	padding-right: 30px;
+}
+p{
+	clear: right;
+}
+form p input{
+	margin-left: 20px;
+    border-style: none;
+}
+form{
+	margin-bottom: 30px;
+}
+button{
+	margin-top: 50px;
+	float: right;
+	background: #046ce6;
+	color: #fff;
+	width: 160px;
+	height: 45px;
+	margin-bottom: 50px;
+	border-radius: 20px;
+}
+body{
+	  background: #292c31;
+
+}
+.tr{
+		color: #000000;
+}
+.to{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.chu{
+	font-size: 14px;
+	
+}
+.chia{
+	width: 601px;
+	height: 903px;
+	float: left;
+	border-radius: 30px 0px 0px 30px;
+	background-color: #121722;
+}
+.tomau{
+	width:601px;
+	height: 903px;
+	float: left;
+    background-color: #fff;
+	border-radius: 0px 30px 30px 0px;
+
+}
+
+.colt{
+	padding-top: 40px;
+    border-bottom: 1px solid black;
+	padding-bottom: 10px;
+}
+.colh{
+	
+	padding-left: 10px;
+}
+.cole{
+	padding-left: 20px;	
+}
+.main{
+	width: 1202px;
+	height: 1806px;
+	margin: auto;
+}
+.off{
+	color: #fff;
+	margin-top: 70px;
+	margin-left: 60px;
+	font-size: 20px;
+}
+.so{
+
+    color: #fff;
+    text-align: center;
+    font-size: 36px;
+    margin-top: 305px;
+}
+
